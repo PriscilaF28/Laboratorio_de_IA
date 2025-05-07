@@ -13,3 +13,8 @@ Na categoria IA selecionar o recurso Language Studio, incluir um nome e associar
 3. Em seguida ele começa a traduzir o conteúdo do arquivo.
 4. Depois é realizada a analise semântica do texto para gerar um grafico de percentual de satisfação
 5. Também é indicado quais palavras chaves forma identificadas para chegar ao resultado da análise.
+
+
+Links referência: 
+https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/09-speech.html
+https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/06-text-analysis.html
